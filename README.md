@@ -9,3 +9,5 @@ Sample website with plenty of files for demos
 ## How to contribute
 more stuf!
 
+## Copyright
+copyrighted 2020
