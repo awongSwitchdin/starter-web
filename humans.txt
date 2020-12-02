@@ -3,11 +3,11 @@
 
 # TEAM
 
-Arthur WOng 	arthur.wong@gmail.com
+Arthur Wong 	arthur.wong@gmail.com
 
 # THANKS
 
-    <name>
+Thanks to myslef!
 
 # TECHNOLOGY COLOPHON
 
