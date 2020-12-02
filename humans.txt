@@ -8,7 +8,7 @@ Arthur Wong 	arthur.wong@gmail.com
 # THANKS
 
 Thanks to myslef!
-
+More thanks!
 # TECHNOLOGY COLOPHON
 
     HTML5, CSS3
