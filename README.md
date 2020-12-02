@@ -11,4 +11,4 @@ Sample website with plenty of files for demos
 please fork and issue pull request to review
 
 ## Copyright
-copyrighted 2020
+copyrighted 2020. all rights reserved
