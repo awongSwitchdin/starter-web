@@ -1,3 +1,4 @@
 .IGNOREME
 log/
+*.orig
 
