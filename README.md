@@ -7,7 +7,7 @@ This repository is for showing how Git and GitHub work
 Sample website with plenty of files for demos
 
 ## How to contribute
-more stuf!
+please fork and issue pull request to review
 
 ## Copyright
 copyrighted 2020
